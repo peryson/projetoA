@@ -1,0 +1,18 @@
+/* Estilos gerais */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Cores personalizadas (podem ser definidas com base na identidade visual) */
+.btn-primary {
+    background-color: #c0845e; /* Marrom claro */
+    border-color: #c0845e;
+}
+
+.btn-primary:hover {
+    background-color: #a36945; /* Marrom mais escuro */
+    border-color: #a36945;
+}
+
+/* Outros estilos personalizados conforme necessário */
