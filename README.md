@@ -63,7 +63,7 @@ Agradecemos qualquer sugestão ou contribuição para melhorar nosso cardápio o
 
 ## Licença
 
-Este projeto é de código aberto e está disponível sob a [**INSERIR LICENÇA AQUI, SE APLICÁVEL - Por exemplo: MIT License**]. Consulte o arquivo de licença para obter mais detalhes sobre os termos de uso e distribuição.
+Este projeto é de código aberto.
 
 ---
 
