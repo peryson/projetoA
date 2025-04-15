@@ -6,21 +6,6 @@ Este projeto apresenta o cardápio online da Cafeteria Bom Sabor, permitindo aos
 
 Nossa página de cardápio online oferece uma experiência visual agradável e informativa. Cada item do menu é apresentado com uma imagem atraente, uma breve descrição para despertar o paladar e o preço correspondente. A navegação intuitiva permite que os clientes explorem facilmente nossas ofertas e façam suas escolhas com confiança.
 
-## Estrutura de Arquivos
-
-A organização dos arquivos do projeto é essencial para a sua funcionalidade e manutenção:
-cafeteria-bom-sabor/
-├── css/
-│   └── style.css             # Contém estilos personalizados para aprimorar a aparência.
-├── img/
-│   ├── cafe-espresso.jpg    # Fotografia do nosso delicioso Café Espresso.
-│   ├── cappuccino.jpg        # Imagem do nosso cremoso Cappuccino.
-│   └── pao-de-queijo.jpg     # Foto dos nossos irresistíveis Pães de Queijo.
-├── cardapio.html           # A página principal do nosso cardápio online.
-├── contato.html            # Página para informações de contato (atualmente um link funcional).
-├── index.html              # Página inicial do website (atualmente um link funcional).
-└── sobre.html              # Página com informações sobre a Cafeteria Bom Sabor (atualmente um link funcional).
-├── README.md               # Este arquivo, fornecendo informações sobre o projeto.
 ## Tecnologias Utilizadas
 
 Para construir e estilizar este cardápio online, utilizamos as seguintes tecnologias:
