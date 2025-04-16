@@ -14,16 +14,6 @@ Para construir e estilizar este cardápio online, utilizamos as seguintes tecnol
 * **CSS:** Responsável pela apresentação visual, incluindo cores, fontes e layout. Utilizamos tanto estilos personalizados quanto a biblioteca Bootstrap.
 * **Bootstrap (v5.3.0):** Um framework CSS poderoso que nos ajuda a criar um design responsivo e consistente, além de fornecer componentes de interface prontos para uso.
 
-## Como Visualizar o Cardápio
-
-Para experimentar o nosso cardápio online no seu ambiente local:
-
-1.  **Certifique-se de ter todos os arquivos do projeto** (HTML, CSS e a pasta `img` com as imagens) salvos no seu computador, seguindo a estrutura de arquivos mencionada acima.
-2.  **Localize o arquivo `cardapio.html`** no seu sistema de arquivos.
-3.  **Dê um duplo clique no arquivo `cardapio.html`**. Isso abrirá a página no seu navegador web padrão.
-
-Agora você poderá navegar pelo nosso cardápio e visualizar os produtos oferecidos.
-
 ## Imagens dos Produtos
 
 Todas as imagens dos nossos deliciosos produtos estão armazenadas na pasta `img/`. É crucial que os arquivos `cafe-espresso.jpg`, `cappuccino.jpg` e `pao-de-queijo.jpg` estejam presentes nesta pasta para que sejam exibidos corretamente no cardápio. Verifique os nomes dos arquivos (incluindo a extensão `.jpg`) e certifique-se de que correspondam exatamente aos nomes referenciados no arquivo `cardapio.html`.
